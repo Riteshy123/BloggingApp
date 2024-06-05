@@ -1,6 +1,6 @@
 This Project is working on a Local Host Server.
 
-Frontend Repository --> 
+Frontend Repository -->  https://github.com/Riteshy123/Frontend_BloggingApp
 
 please visit to see the project presentation  --->  https://www.veed.io/view/a3bac377-3060-4136-906b-d62addc8c684?panel=share
 
