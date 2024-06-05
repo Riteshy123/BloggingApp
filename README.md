@@ -4,6 +4,8 @@ Frontend Repository -->  https://github.com/Riteshy123/Frontend_BloggingApp
 
 please visit to see the project presentation  --->  https://www.veed.io/view/a3bac377-3060-4136-906b-d62addc8c684?panel=share
 
+[Watch the demo video](https://www.veed.io/view/a3bac377-3060-4136-906b-d62addc8c684?panel=share)
+
 <h1>MERN Stack Blogging Application</h1>
 
 <h2>Overview</h2>
