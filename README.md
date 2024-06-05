@@ -1,6 +1,8 @@
 This Project is working on a Local Host Server.
 
-please visit to see the presentation  --->  https://www.veed.io/view/a3bac377-3060-4136-906b-d62addc8c684?panel=share
+Frontend Repository --> 
+
+please visit to see the project presentation  --->  https://www.veed.io/view/a3bac377-3060-4136-906b-d62addc8c684?panel=share
 
 <h1>MERN Stack Blogging Application</h1>
 
@@ -88,5 +90,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 5. Mongoose
 
-6 .JWT
+6. JWT
 
